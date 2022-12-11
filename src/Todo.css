@@ -1,0 +1,12 @@
+.Todo {
+    padding-left: 45%;
+    text-align: left;
+    margin-bottom: 10px;
+
+}
+
+.Todo-li button {
+    background-color: black;
+    height: 25px;
+    margin: 0;
+}

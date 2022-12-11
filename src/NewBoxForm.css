@@ -1,0 +1,12 @@
+input {
+    margin: 5px;
+}
+
+button {
+    background-color: lightseagreen;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
